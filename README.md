@@ -8,9 +8,9 @@
 - 🌱 I’m expanding my knowledge in system design and scalable web architectures.  
 - 👯 I’m looking to collaborate on innovative AI and web development projects.  
 - 💬 Ask me about anything related to programming.
+- 👨‍💻 All of my projects are available at 
 - 📫 How to reach me **adanslemany@gmail.com**
 
-👨‍💻 All of my projects are available at 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
