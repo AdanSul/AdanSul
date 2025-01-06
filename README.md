@@ -7,8 +7,9 @@
 - 🔭 I’m currently working on improving my full-stack development skills.  
 - 🌱 I’m expanding my knowledge in system design and scalable web architectures.  
 - 👯 I’m looking to collaborate on innovative AI and web development projects.  
+- 👨‍💻 All of my projects are available at
+  
 - 💬 Ask me about anything related to programming.
-- 👨‍💻 All of my projects are available at 
 - 📫 How to reach me **adanslemany@gmail.com**
 
 
