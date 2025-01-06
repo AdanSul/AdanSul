@@ -2,6 +2,7 @@
 
 <h3 align="center">A passionate Computer Science Student | Full-Stack Developer</h3>
 
+<br>
 
 
 - 🔭 I’m currently working on improving my full-stack development skills.  
