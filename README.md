@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adan Sulimany</h1>
+
 <h3 align="center">A passionate Computer Science Student | Full-Stack Developer</h3>
+
+
 
 - 🔭 I’m currently working on improving my full-stack development skills.  
 - 🌱 I’m expanding my knowledge in system design and scalable web architectures.  
