@@ -10,6 +10,8 @@
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me **adanslemany@gmail.com**
 
+👨‍💻 All of my projects are available at 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adan-sulimany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adan sulimany" height="30" width="40" /></a>
