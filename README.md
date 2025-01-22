@@ -7,7 +7,20 @@
 
 - 🔭 I’m currently working on improving my full-stack development skills.  
 - 🌱 I’m expanding my knowledge in system design and scalable web architectures.  
-- 👯 I’m looking to collaborate on innovative AI and web development projects.  
+- 👯 I’m looking to collaborate on innovative AI and web development projects.
+- 👩‍💻 Here are some of the key repositories I've worked on:
+  - [**Communication-Networks**](https://github.com/AdanSul/Communication-Networks)  
+    Exploration and solutions for key topics in Communication Networks, including protocols and simulations.
+  
+  - [**AVL-Tree-Operations**](https://github.com/AdanSul/AVL-Tree-Operations)  
+    Efficient AVL Tree operations for balanced data management, implemented in C.
+  
+  - [**NaturalLanguageProcessing**](https://github.com/AdanSul/NaturalLanguageProcessing)  
+    Hands-on NLP techniques repository, focusing on language models, text preprocessing, and evaluation.
+
+
+
+
   
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me **adanslemany@gmail.com**
