@@ -7,6 +7,7 @@
 ### 👩‍💻 About Me  
 I am a Computer Science student with a keen interest in full-stack development, networking, and artificial intelligence. I thrive on solving real-world problems through innovative solutions and enjoy collaborating on impactful projects.
 
+
 ### 🌟 What I'm Currently Focusing On:
 - 🌱 Expanding my knowledge in system design, scalable web architectures, and cybersecurity.
 - 👩‍🔬 Exploring AI and NLP techniques to solve complex data challenges.
