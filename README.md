@@ -1,75 +1,38 @@
-# Hi 👋, I'm Adan Sulimany  
-
-A passionate Computer Science Student | Full-Stack Developer  
-
----
-
-## 👩‍💻 About Me  
-I am a Computer Science student with a keen interest in full-stack development, networking, and artificial intelligence. I thrive on solving real-world problems through innovative solutions and enjoy collaborating on impactful projects.
-
-## 🌟 What I'm Currently Focusing On:
-- 🌱 Expanding my knowledge in system design, scalable web architectures, and cybersecurity.
-- 👩‍🔬 Exploring AI and NLP techniques to solve complex data challenges.
-- 🤝 Collaborating on innovative AI and web development projects.
-
-
-
----
-
-## 👩‍💻 Projects and Repositories
-Here are some of the key repositories I've worked on:
-
-- **[Communication-Networks](https://github.com/yourusername/Communication-Networks)**  
-  Exploration and solutions for key topics in Communication Networks, including protocols and simulations.
-
-- **[AVL-Tree-Operations](https://github.com/yourusername/AVL-Tree-Operations)**  
-  Efficient AVL Tree operations for balanced data management, implemented in C.
-
-- **[NaturalLanguageProcessing](https://github.com/yourusername/NaturalLanguageProcessing)**  
-  Hands-on NLP techniques repository, focusing on language models, text preprocessing, and evaluation.
-
----
-
-## 🔮 Future Goals:
-- Dive deeper into cybersecurity and network security vulnerabilities.
-- Develop AI-based tools to enhance automation and optimization in real-world applications.
-- Contribute to open-source projects in full-stack development and machine learning.
-
----
-
-## 📫 How to Reach Me:
-- 💌 Email: [adanslemany@gmail.com](mailto:adanslemany@gmail.com)
-- 💼 LinkedIn: [Adan Sulimany](https://www.linkedin.com/in/yourusername)
-
-
-
-
 <h1 align="center">Hi 👋, I'm Adan Sulimany</h1>
 
 <h3 align="center">A passionate Computer Science Student | Full-Stack Developer</h3>
 
 <br>
 
+#### 👩‍💻 About Me  
+I am a Computer Science student with a keen interest in full-stack development, networking, and artificial intelligence. I thrive on solving real-world problems through innovative solutions and enjoy collaborating on impactful projects.
 
-- 🔭 I’m currently working on improving my full-stack development skills.  
-- 🌱 I’m expanding my knowledge in system design and scalable web architectures.  
-- 👯 I’m looking to collaborate on innovative AI and web development projects.
-- 👩‍💻 Here are some of the key repositories I've worked on:
-  - [**Communication-Networks**](https://github.com/AdanSul/Communication-Networks)  
-    Exploration and solutions for key topics in Communication Networks, including protocols and simulations.
-  
-  - [**AVL-Tree-Operations**](https://github.com/AdanSul/AVL-Tree-Operations)  
-    Efficient AVL Tree operations for balanced data management, implemented in C.
-  
-  - [**NaturalLanguageProcessing**](https://github.com/AdanSul/NaturalLanguageProcessing)  
-    Hands-on NLP techniques repository, focusing on language models, text preprocessing, and evaluation.
+#### 🌟 What I'm Currently Focusing On:
+- 🌱 Expanding my knowledge in system design, scalable web architectures, and cybersecurity.
+- 👩‍🔬 Exploring AI and NLP techniques to solve complex data challenges.
+- 🤝 Collaborating on innovative AI and web development projects.
+
+#### 👩‍💻 Projects and Repositories
+Here are some of the key repositories I've worked on:
+
+- **[Communication-Networks](https://github.com/AdanSul/Communication-Networks)**  
+  Exploration and solutions for key topics in Communication Networks, including protocols and simulations.
+
+- **[AVL-Tree-Operations](https://github.com/AdanSul/AVL-Tree-Operations)**  
+  Efficient AVL Tree operations for balanced data management, implemented in C.
+
+- **[NaturalLanguageProcessing](https://github.com/AdanSul/NaturalLanguageProcessing)**  
+  Hands-on NLP techniques repository, focusing on language models, text preprocessing, and evaluation.
+
+#### 🔮 Future Goals:
+- Dive deeper into cybersecurity and network security vulnerabilities.
+- Develop AI-based tools to enhance automation and optimization in real-world applications.
+- Contribute to open-source projects in full-stack development and machine learning.
 
 
-
-
-  
-- 💬 Ask me about anything related to programming.
-- 📫 How to reach me **adanslemany@gmail.com**
+#### 📫 How to Reach Me:
+- 💌 Email: [adanslemany@gmail.com](mailto:adanslemany@gmail.com)
+- 💼 LinkedIn: [Adan Sulimany](https://www.linkedin.com/in/yourusername)
 
 
 <h3 align="left">Connect with me:</h3>
