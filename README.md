@@ -23,10 +23,11 @@ Here are some of the key repositories I've worked on:
 
 - **[NaturalLanguageProcessing](https://github.com/AdanSul/NaturalLanguageProcessing)**  
   Hands-on NLP techniques repository, focusing on language models, text preprocessing, and evaluation.
-  
+
 - **[AnimationAndRobotics](https://github.com/AdanSul/AnimationAndRobotics)**
   Hands-on projects in **robotics and animation**, covering **optimization, kinematics, deformation simulations, and path planning** with       
   interactive visualization.
+  
 
 <br><br>
 ### 🔮 Future Goals:
