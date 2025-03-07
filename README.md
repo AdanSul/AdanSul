@@ -27,7 +27,7 @@ Here are some of the key repositories I've worked on:
 - **[AnimationAndRobotics](https://github.com/AdanSul/AnimationAndRobotics)**<br>
   Hands-on projects in **robotics and animation**, covering **optimization, kinematics, deformation simulations, and path planning** with       interactive visualization.
 
-- **[DevQALink](#)**  
+- **[DevQALink](https://github.com/AdanSul/DevQALink)**  
   A **QA & Dev framework** for automating test execution, managing resources, tracking jobs, and generating AI-powered reports.
 
 <br><br>
