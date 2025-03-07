@@ -29,7 +29,6 @@ Here are some of the key repositories I've worked on:
 
 - **[DevQALink](https://github.com/AdanSul/DevQALink)**  
   A **QA & Dev framework** for automating test execution, managing resources, tracking jobs, and generating AI-powered reports.
-
 <br><br>
 ### 🔮 Future Goals:
 - Dive deeper into cybersecurity and network security vulnerabilities.
